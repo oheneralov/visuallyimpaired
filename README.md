@@ -11,7 +11,7 @@ python manage.py startapp todo
 ### Run migrations:
 python manage.py migrate
 
-### And start up the server:
+### Start up the server:
 python manage.py runserver
 
 ### Create migration
